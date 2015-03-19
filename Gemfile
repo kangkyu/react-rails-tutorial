@@ -4,7 +4,8 @@ source 'https://rubygems.org'
 gem 'react-rails', '~> 1.0.0.pre', github: 'reactjs/react-rails'
 gem 'showdown-rails'
 
-
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
 
 
 
