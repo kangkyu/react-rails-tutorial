@@ -1,4 +1,5 @@
-== README
+README
+==
 
 simply following those tutorial to make a rails + react app.
 
@@ -6,5 +7,5 @@ simply following those tutorial to make a rails + react app.
 + https://github.com/justin808/react-rails-tutorial
 
 ```
-cd ~/new_working_directory/react-rails-tutorial
+cd ~/old_code/react-rails-tutorial
 ```
